@@ -1,4 +1,7 @@
- #GSP037
+# GSP037
+
+## CREATE AN API_KEY > APIs & Services > Credentials > Create Credentials>API key
+## Run in cloudshell
 ``` gcloud alpha services api-keys create --display-name="CloudHustlers" 
 KEY_NAME=$(gcloud alpha services api-keys list --format="value(name)" --filter "displayName=CloudHustlers")
 export API_KEY=$(gcloud alpha services api-keys get-key-string $KEY_NAME --format="value(keyString)")
