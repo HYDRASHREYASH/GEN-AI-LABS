@@ -1,5 +1,5 @@
 # GSP1151
-## Copy and paste this link in new tab 
+## Open the link 
 
 ```cmd
 https://console.cloud.google.com/vertex-ai/workbench/user-managed?
