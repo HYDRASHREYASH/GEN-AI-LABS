@@ -1,5 +1,5 @@
 # GSP075
-### Run In Cloudshell
+### Run In Cloudshell                                                                                 click this copy button to copy the code
 ```gcloud alpha services api-keys create --display-name="CloudHustlers" 
 KEY_NAME=$(gcloud alpha services api-keys list --format="value(name)" --filter "displayName=CloudHustlers")
 API_KEY=$(gcloud alpha services api-keys get-key-string $KEY_NAME --format="value(keyString)")
