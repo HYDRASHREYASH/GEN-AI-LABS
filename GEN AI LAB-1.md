@@ -1,6 +1,6 @@
 # GSP277
 > 💞[FOLLOW GDSC ON INSTAGRAM](https://instagram.com/gdsc.dypsn?igshid=MWZjMTM2ODFkZg==)
-## Run In Cloudshell
+## Create a Bucket > Run In Cloudshell
 
 ``` export PROJECT_ID=$(gcloud config get-value project)
 gsutil mb -p $PROJECT_ID -c regional -l us-central1 gs://$PROJECT_ID-bucket
