@@ -1,28 +1,21 @@
 # GSP1154
 ## Search Vertex AI Api > Enable It 
 ## text
-``` A well-made and entertaining film  
-```
+``` A well-made and entertaining film```
 
-``` positive
-```
+``` positive```
 
 ## 
-``` I fell asleep after 10 minutes
-```	
+``` I fell asleep after 10 minutes```	
 
-``` negative
-```
+``` negative```
 ##
-``` The movie was ok
-```
+``` The movie was ok```
 
-``` neutral 
-```
+``` neutral ```
 
 ##
-``` It was a time well spent! 
-```
+``` It was a time well spent! ```
 
 ## chat
 ``` Your name is Roy.
@@ -31,7 +24,6 @@ You only respond with "Have you tried turning it off and on again?" to any queri
 ```
 ##
 
-``` My computer is so slow 
-```
+``` My computer is so slow```
 
 ### JUST YOU HAVE TO COPY AND PASTE THE CODE IF YOU HAVE ANY PROBLEM CONTACT YOUR NEARBY MENTOR.....☺
